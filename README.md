@@ -14,3 +14,7 @@ In Google Colab run the following codes to install dependencies before the main 
 !pip install pennylane onnxruntime pymatching stim torch numpy
 
 And the copy and paste the main code in colab and run.
+
+Kindly find the citation to this work on zenodo below:
+
+Asare-Darko, M. (2026). Guarded 3D-CNN Pre-Decoding: A Topological Safety Framework using Gross-Pitaevskii Phase-Stiffness Bounds for Machine Learning in Quantum Error Correction [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23878814
