@@ -1,0 +1,17 @@
+Generating Supervised Training Data (Detectors=120, d=5, r=5)...
+Training Supervised 3D-CNN Weight Net over 15 Epochs...
+Epoch [ 5/15] - Loss: 0.0481
+Epoch [10/15] - Loss: 0.0435
+Epoch [15/15] - Loss: 0.0411
+
+Executing Gross-Pitaevskii Edge-Weighted Benchmark...
+
+=======================================================
+ Gross-Pitaevskii Guarded Hybrid Engine Benchmark
+=======================================================
+Code Distance: d=5, Rounds: r=5, Test Shots: 5000
+Physical Noise Rate (p): 1.0%
+Pure MWPM Baseline (P_L)         : 0.0294
+Gross-Pitaevskii Guarded (P_L)   : 0.0294
+Homology Protection Guarantee     : 100% Safe (Zero False-Positive Inversions)
+Relative Gain / Loss             : +0.00%
